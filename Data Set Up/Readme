@@ -1,0 +1,12 @@
+This folder contains:
+
+1) forage_fracfeed.csv the datset used for the analyses and was produced by 
+
+2) DataManipulation.R. This file requires the 
+
+3) MassAbundance_Fits.RData which is produced using the code from
+
+4) MassAbundance_BayesianReg which fits log-log regressions to the data found in 
+
+5) MassAbundanceScalingData.csv
+
