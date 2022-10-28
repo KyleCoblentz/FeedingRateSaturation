@@ -1,0 +1,10 @@
+This directory contains the following files
+
+1) MassAbundanceScalingData.csv which contains the data for mass abundance scaling from Hatton et al.
+
+2) MassAbundance_BayesianReg.R which performs Bayesian log-log mass-abundance regressions and creates
+the .RData file MassAbundanceFits.RData
+
+3) DataManipulation.R which takes the .csv file FoRAGE_db_C2_3_Oct_26_2022_mod.csv and the .RData file
+MassAbundanceFits.RData and creates the file forage_fracfeed.csv which has all of the information that 
+is needed to do the analyses.
