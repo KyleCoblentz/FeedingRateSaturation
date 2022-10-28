@@ -1,0 +1,17 @@
+This folder contains the following files:
+
+forage_fracfeed.csv -- contains the data that is analyzed
+
+FormalAnalysis_Figures.R -- performs the main analysis presented in the manuscript and creates figures 2-5
+
+Plots_Covariates_ahR -- performs the analyses looking at covariate effects on space clearance  rates and handling times
+
+FormalAnalysis_10thPercentile.R -- performs the supplemental analysis with prey abundances at their 10th percentile
+
+FormalAnalysis_90thPercentile.R -- performs the supplemental analysis with prey abundnaces at their 90th percentile
+
+Analysis_IncludeBirdsandMammals.R -- performs the supplemental analysis of the dataset including birds and mammals
+
+FieldObsvEst.R -- performs supplemental analysis comparing estimates of saturation to the observed saturation for the field studies in FoRAGE
+
+FoRAGE_db_V2_3_Oct_26_2022_original_curves.csv -- provides data needed to perform the analysis if FieldObsvEst.R
