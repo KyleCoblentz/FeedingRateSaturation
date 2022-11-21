@@ -29,7 +29,7 @@ bayes_R2(mammal_fit)
 
 ### plots
 
-# generate 75% prediction interval dataset
+# generate prediction interval dataset
 
 mammal_pred_interval <- data.frame(logMass_g = seq(min(log(mammal$Mass_g)), max(log(mammal$Mass_g)), length.out = 1000))
 
