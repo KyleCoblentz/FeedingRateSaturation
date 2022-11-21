@@ -25,8 +25,6 @@ forage <- read.csv('forage_fracfeed.csv', stringsAsFactors = TRUE)
 
 ### modify data to get to only the studies we want to consider
 
-# first drop the studies with unit conversion mistakes for prey densities
-
 ################################################################################
 ### set up for the formal analysis
 ################################################################################
